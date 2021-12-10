@@ -1,1 +1,6 @@
-# Software_Deployment_Uebung_Doku
+# Software Deployment Übung
+# Software Deployment Übung
+## Teilnehmer
+- Severin Mikesch
+- Konstantin Siegl
+- Markus Gamperl
